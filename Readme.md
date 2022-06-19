@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanjana Jalgaonkar
 - 👀 I’m a CSE Student
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 📫 Reach me on Twitter - https://twitter.com/_sj50301,  Instagram - https://www.instagram.com/_sj50301/ and LinkedIn - www.linkedin.com/in/sanjana-jalgaonkar-7b64691b0
+- 🌱 I’m currently learning Java Core and Flutter
+- 📫 Reach me on Twitter - https://twitter.com/sanjanjalgaon5,  Instagram - https://www.instagram.com/sanjana.jalgaonkar/ and LinkedIn - https://www.linkedin.com/in/sanjana531/
 
 <!---
 sjalg5/sjalg5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
